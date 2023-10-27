@@ -1,10 +1,21 @@
 # Garcia-Tzu
 Uma cozinha especializada em frango
 
-Basicamente criamos um aplicativo de restaurante de frago, no qual, o usuário pode se cadastrar e colocar sua informações pessoais, como endereço, CPF, telefone. E fazer seus pedidos, o cardápio conta com 
+Basicamente criamos um aplicativo de restaurante de frango, no qual, o usuário pode se cadastrar e colocar suas informações pessoais, como endereço, CPF, telefone. E fazer seus pedidos, o cardápio conta com 
 uma gama de pratos a base de frango.
 
-Na parte de armazenamento de informações(Banco de dados) é na parte de informações di usuário, são os dados do cliente, esses vão para o banco de dados para nos informar qual cliente é mais comprometido com o restaurante, preferencia e gosto para podermos notificar caso tenha algum prato que esteja na promoção e que seja de sua preferencia.
+Funcionalidades
+
+-Acessar Cardápio
+-Ver Informações de Usuário
+-Ver histórico de compras 
+-Fazer pedido
+-Acompanhar pedido
+-Avaliar pedido
+-Ver Saldo
+-Adionar Saldo
+
+Na parte de armazenamento de informações(Banco de dados) é na parte de informações de usuário, são os dados do cliente, esses vão para o banco de dados para nos informar qual cliente é mais comprometido com o restaurante, preferencia e gosto para podermos notificar caso tenha algum prato que esteja na promoção e que seja de sua preferencia.
 
 Temos também a parte no cardápio, onde colocamos as informações do produto, tipo, valor, como foi feito entre outros, no qual, vai nos ajudar a apresentar o produto para o cliente e caso necessário adiconar algum prato.
 
