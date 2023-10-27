@@ -6,14 +6,7 @@ uma gama de pratos a base de frango.
 
 Funcionalidades
 
--Acessar Cardápio
--Ver Informações de Usuário
--Ver histórico de compras 
--Fazer pedido
--Acompanhar pedido
--Avaliar pedido
--Ver Saldo
--Adionar Saldo
+Acessar Cardápio, Ver Informações de Usuário, Ver histórico de compras, Fazer pedido, Acompanhar pedido, Avaliar pedido, Ver Saldo, Adionar Saldo.
 
 Na parte de armazenamento de informações(Banco de dados) é na parte de informações de usuário, são os dados do cliente, esses vão para o banco de dados para nos informar qual cliente é mais comprometido com o restaurante, preferencia e gosto para podermos notificar caso tenha algum prato que esteja na promoção e que seja de sua preferencia.
 
