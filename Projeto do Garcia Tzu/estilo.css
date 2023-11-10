@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+fontsize {
+
+    font-size:80px;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+main {
+    text-align: center;
+    padding: 20px;
+
+}
+
+main1 {
+    text-align: top;
+    padding: 20px;
+
+}
+
+
+
+
+.banner {
+    background-image: url('Link.com.br');
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.about {
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.btn2 {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #fff;
+    color: #333;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+
+
+}
+
+.fila {
+
+    background-size: cover;
+    color: #fff;
+    text-align: left;
+    padding: 5px 0;
+
+
+}
+
+cor{
+
+    color: green;
+}
+
+boa {
+    position: absolute;
+     /* ajuste conforme necessário */
+    left: 310px; /* ajuste conforme necessário */
+    color: white; /* ajuste a cor do texto conforme necessário */
+  }
+textoa {
+
+    text-align: left;
+    text-align: justify ;
+    font-size: 30px;
+   
+
+
+
+
+}
+
+footer {
+
+    background-color: #333;
+    color: #fff;
+    text-align: left;
+    padding: 10px 0;
+}
+
+borda {
+    
+    border-color: #333;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin: 10px;
+
+
+}
+
+imgformat {
+
+    height: 60px;
+    width: 60px;
+
+
+}
